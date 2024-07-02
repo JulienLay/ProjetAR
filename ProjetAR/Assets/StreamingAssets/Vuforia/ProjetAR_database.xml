@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="dionysos" size="0.500000 0.500000" />
+    <ImageTarget name="zeus" size="0.500000 0.500000" />
+    <ImageTarget name="poseidon" size="0.500000 0.500000" />
+    <ImageTarget name="hades" size="0.500000 0.500000" />
+    <ImageTarget name="athena" size="0.500000 0.500000" />
+    <ImageTarget name="ares" size="0.500000 0.500000" />
+    <ImageTarget name="aphrodite" size="0.500000 0.346680" />
+  </Tracking>
+</QCARConfig>
